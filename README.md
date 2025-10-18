@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi I'm Eman Hamdy  👋
+**Backend Engineer | Node.js & Python**
 
-<!--
-**EmanHamdyMohamed/Emanhamdymohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer – specializes in building scalable APIs, event-driven systems, and production reliability.
+I’m a backend engineer with 5+ years of experience building scalable APIs and event-driven systems. I specialize in backend development, production reliability, database optimization, and large-scale data operations.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+Node.js · Python · PostgreSQL · MongoDB · AWS Neptune Graph DB · AWS · Redis · ElasticSearch · Event Queues
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+- **Email:** emanhamdy645@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/eman-hamdy-dev 
+
